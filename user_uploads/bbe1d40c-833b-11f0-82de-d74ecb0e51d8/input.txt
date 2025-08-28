@@ -1,0 +1,8 @@
+file '230721-200427-TML2023-3Y5A0450-SIL.jpg'
+duration 1
+file '5384067.jpg'
+duration 1
+file '5384067.jpg'
+duration 1
+file '230728-222441-TML23-DSC_3670-YS.jpg'
+duration 1
